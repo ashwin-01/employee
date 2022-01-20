@@ -46,7 +46,7 @@ public class Employee {
 				condition=false;
 				break;
 			default:
-				System.out.println("invalid choice");
+				System.out.println("invalid choice-yes");
 			}
 		}
 	}
